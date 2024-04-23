@@ -93,6 +93,9 @@
  
   客户端进入TIME_WAIT状态，服务端进入CLOSED状态。客户端处于TIME_WAIT状态时，TCP连接还未释放掉，等待2个MSL（Maximum Segment Lifetime，最大段生命周期）的时长后，客户端进入CLOSE状态。
 
+  ![image](https://github.com/gsttkx/interview/assets/158159581/fdf99b36-080a-4a2e-9226-013461d177e3)
+
+
 
 
 
